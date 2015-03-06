@@ -1,0 +1,22 @@
+{
+  "name": "which-chrome-extension",
+  "version": "0.0.1",
+  "description": "return chrome path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/watilde/which-chrome.git"
+  },
+  "keywords": [
+    "chrome"
+  ],
+  "author": "Daijiro Wachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watilde/which-chrome/issues"
+  },
+  "homepage": "https://github.com/watilde/which-chrome"
+}
