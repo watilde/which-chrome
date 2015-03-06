@@ -1,6 +1,6 @@
 {
   "name": "which-chrome-extension",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "return chrome extension path",
   "main": "index.js",
   "scripts": {
