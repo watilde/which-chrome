@@ -1,7 +1,7 @@
 {
   "name": "which-chrome-extension",
   "version": "0.0.1",
-  "description": "return chrome path",
+  "description": "return chrome extension path",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
